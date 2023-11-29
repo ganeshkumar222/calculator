@@ -7,6 +7,12 @@
 body{
     background-image: url(./images/240_F_472092463_biXCSvYsRVE8S05Ph7LbrxglfDr66MBE.jpg);
 }
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
 
 .container{
     height: 100vh;

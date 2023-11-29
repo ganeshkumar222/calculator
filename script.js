@@ -1,4 +1,4 @@
-let output = document.getElementById("screen")
+let output = document.getElementById("result")
 let button = document.getElementsByClassName("btn")
 for(let i=0;i<button.length;i++){
     button[i].addEventListener("click",(e)=>{
